@@ -20,6 +20,7 @@ author: BrianAndAlan
 ###############################################
 
 navbar-links:
+  Itch.io: "https://alangfiles.itch.io/"
   Games: "games"
   About: "about"
 
@@ -29,14 +30,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/BrianAndAlan2.png"
+# avatar: "/assets/img/BrianAndAlan2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/BrianAndAlan2.png
 
 
 #####################################
@@ -130,7 +131,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#000000"
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "#f0f0f0"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
