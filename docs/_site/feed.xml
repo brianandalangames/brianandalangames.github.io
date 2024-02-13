@@ -12,25 +12,25 @@
     
     
       <item>
-        <title>Sample blog post to learn markdown tips</title>
+        <title>G.A.S. Gas Attendant Simulator</title>
         <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
+          It&apos;s heart pumping, gas pumping action! - 
+          Fill’er up! A new zapper game for the Nintendo Entertainment System in 2023. The universe is in peril! Heros are called into action, but you have a simpler calling, that of a pump jockey. Unleaded, Diesel, you can pump it all! Practice pumping gas to the perfect number, ignore all...
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown/</guid>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-06-01-gas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-01-gas/</guid>
       </item>
     
       <item>
-        <title>Flake it till you make it</title>
+        <title>CORGS Simulator</title>
         <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          A new NES game - 
+          The Columbus Ohio Retro Gaming Society Convention for 2022 has a new entry for the Nintendo Entertainment System (and Famicom). If you’re interested in going to a video game convention, then it only stands to reason that you’re even more interested in playing a video game about going to such...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Wed, 01 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-06-01-corgssimulator/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-06-01-corgssimulator/</guid>
       </item>
     
   </channel>
