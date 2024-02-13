@@ -2,9 +2,9 @@
 layout: post
 title: CORGS Simulator
 subtitle: A new NES game
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
+cover-img: /assets/img/corgs1.jpg
+thumbnail-img: /assets/img/corgs1.jpg
+share-img: /assets/img/corgs1.jpg
 tags: [nes, retro, game]
 ---
 
