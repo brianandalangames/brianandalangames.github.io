@@ -9,7 +9,9 @@ tags: [nes, retro, controller]
 
 ---
 
-Todo: write about this.
+For CORGS 2021, we built a controller specifically for everyone's favorite boxing game, Punch Out.
+
+We 
 
 
 ![punchout 1](/assets/img/punchout1.jpg)

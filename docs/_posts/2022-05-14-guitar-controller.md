@@ -9,7 +9,7 @@ tags: [nes, retro, controller]
 
 ---
 
-Todo: write about this.
+With a little extra time on our hands before CORGS 2022, we built a custom controller for the DPadHero2. DPadHero2 uses the NES controller as the input, so we wired up a guitar hero components to a NES board so you could play it in style!
 
 ![Guitar 1](/assets/img/guitar1.jpg)
 ![Guitar 2](/assets/img/guitar2.jpg)
