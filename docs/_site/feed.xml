@@ -17,20 +17,90 @@
           It&apos;s heart pumping, gas pumping action! - 
           Fill’er up! A new zapper game for the Nintendo Entertainment System in 2023. The universe is in peril! Heros are called into action, but you have a simpler calling, that of a pump jockey. Unleaded, Diesel, you can pump it all! Practice pumping gas to the perfect number, ignore all...
         </description>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-06-01-gas/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-06-01-gas/</guid>
+        <pubDate>Sat, 13 May 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-05-13-gas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-05-13-gas/</guid>
+      </item>
+    
+      <item>
+        <title>NESdle</title>
+        <description>
+          A one of a kind game. - 
+          We made a Wordle clone one weekend. And in trying to figure out what to do with it, we decided to give it away at CORGS 2023. So we put the game onto a cartridge, printed out the source code, deleted the code repo and all assets, and one lucky...
+        </description>
+        <pubDate>Sat, 13 May 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-05-13-a-nesdle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-05-13-a-nesdle/</guid>
+      </item>
+    
+      <item>
+        <title>Guitar Controller</title>
+        <description>
+          DPad Hero with a custom controller! - 
+          With a little extra time on our hands before CORGS 2022, we built a custom controller for the DPadHero2. DPadHero2 uses the NES controller as the input, so we wired up a guitar hero components to a NES board so you could play it in style!
+
+
+
+
+
+
+        </description>
+        <pubDate>Sat, 14 May 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-05-14-guitar-controller/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-05-14-guitar-controller/</guid>
       </item>
     
       <item>
         <title>CORGS Simulator</title>
         <description>
           A new NES game - 
-          The Columbus Ohio Retro Gaming Society Convention for 2022 has a new entry for the Nintendo Entertainment System (and Famicom). If you’re interested in going to a video game convention, then it only stands to reason that you’re even more interested in playing a video game about going to such...
+          Your browser does not support the video tag. The Columbus Ohio Retro Gaming Society Convention for 2022 has a new entry for the Nintendo Entertainment System (and Famicom). If you’re interested in going to a video game convention, then it only stands to reason that you’re even more interested in...
         </description>
-        <pubDate>Wed, 01 Jun 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2022-06-01-corgssimulator/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-06-01-corgssimulator/</guid>
+        <pubDate>Sat, 14 May 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-05-14-corgssimulator/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-05-14-corgssimulator/</guid>
+      </item>
+    
+      <item>
+        <title>Punchout Man</title>
+        <description>
+          A controller specifically for everyone&apos;s favorite boxing game - 
+          For CORGS 2021, we built a controller specifically for everyone’s favorite boxing game, Punch Out. We took apart a DDR pad, and used that to make punchable areas on the dummy and a pad for dodging left and right. We added a button on the top of the head to...
+        </description>
+        <pubDate>Sat, 23 Oct 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-10-23-punchout-man/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-10-23-punchout-man/</guid>
+      </item>
+    
+      <item>
+        <title>Backwards Controller</title>
+        <description>
+          Make video games hard again! - 
+          Todo: write about this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </description>
+        <pubDate>Sat, 23 Oct 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-10-23-backwards-controller/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-10-23-backwards-controller/</guid>
       </item>
     
   </channel>
