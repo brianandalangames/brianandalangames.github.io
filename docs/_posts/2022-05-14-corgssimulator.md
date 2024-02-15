@@ -8,7 +8,7 @@ share-img: /assets/img/corgs1.jpg
 tags: [nes, retro, game]
 ---
 
-{% include video.html url="/assets/img/CorgsReel2.mp4" %}
+{% include video.html url="/assets/img/corgssizzle.mp4" %}
 
 
 The Columbus Ohio Retro Gaming Society Convention for 2022 has a new entry for the Nintendo Entertainment System (and Famicom).
