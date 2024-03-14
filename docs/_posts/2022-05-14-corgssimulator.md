@@ -17,6 +17,8 @@ If you're interested in going to a video game convention, then it only stands to
 
 Explore the CORGS-con and find hidden video games and references. Throw money at video games and maybe even find the KING OF VIDEO GAMES himself!
 
+[Get a copy of the ROM here for free!](https://alangfiles.itch.io/corgs-simulator)
+
 ![corgs 1](/assets/img/corgs1.jpg)
 ![corgs 2](/assets/img/corgsgames.jpg)
 ![corgs 3](/assets/img/corgsfamicom.jpg)
