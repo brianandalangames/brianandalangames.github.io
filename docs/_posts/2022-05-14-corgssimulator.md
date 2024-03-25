@@ -8,14 +8,50 @@ share-img: /assets/img/corgs1.jpg
 tags: [nes, retro, game]
 ---
 
+CORGS Simulator is a celebration of the Columbus Ohio Retro Gaming Society Convention on the Nintendo Entertainment System.
+
+
 {% include video.html url="/assets/img/corgssizzle.mp4" %}
 
 
-The Columbus Ohio Retro Gaming Society Convention for 2022 has a new entry for the Nintendo Entertainment System (and Famicom).
+ 
 
-If you're interested in going to a video game convention, then it only stands to reason that you're even more interested in playing a video game about going to such a convention.
+## No Lowballers
 
-Explore the CORGS-con and find hidden video games and references. Throw money at video games and maybe even find the KING OF VIDEO GAMES himself!
+CORGS Simulator is a short, but sweet adventure.  You’ve visited the Columbus Ohio Retro Gaming Society Convention on the hunt for video games.  Fortunately, they’re running around everywhere.  Walk the show floor.  Walk around outside (you could use the exercise!).  Talk to interesting people.  Talk to uninteresting people.  Amass a video game collection to rival the greats!
+
+ 
+
+## No Trades
+
+Alan Files and Brian Burke developed CORGS Simulator in early 2022.  Brian and Alan had been attending the CORGS show for years to exhibit cool gaming stuff, but wanted to up the ante for 2022. 
+
+Brian originally floated the idea of a simple ROM hack to give away as a sort of party favor for the show.  The conversation moved on to the topic of the C programming libraries available for the NES.  Before they knew it, CORGS Simulator was born. 
+
+Alan took on the challenge of programming CORGS simulator, using the NES C Library and learning from the tutorials provided by NESDoug.  Brian read NESDoug’s tutorials too and immediately decided that he would be better suited to do the graphics. 
+
+Alan and Brian both contributed to the music for CORGS Simulator.  The title screen and ending theme were created by Alan, while Brian worked on the main gameplay theme.   
+
+ 
+
+## I Know What I Have
+
+CORGS Simulator is an overhead adventure in the style of classics like The Legend of Zelda and Startropics. 
+
+* Guide yourself through the CORGS show and the surrounding area;
+* Clean up the place by throwing money at wayward video games;
+* Build a collection of favorite classics;
+* Become a legend!
+
+Take a leisurely stroll or race against the clock.  CORGS Simulator is made for speedrunners.  A built-in clock records your exact time of completion.  Do you think you can beat Brian’s time?  How about Alan’s slightly faster one? 
+
+ 
+
+## All Sales Final 
+
+CORGS Simulator was first given away at the 2022 CORGS Convention.  A gold (painted) copy of the game was given away as a prize at the show.  Other copies were given to friends and well-wishers. 
+
+CORGS Simulator will be available for sale in the near future.  
 
 [Get a copy of the ROM here for free!](https://alangfiles.itch.io/corgs-simulator)
 
